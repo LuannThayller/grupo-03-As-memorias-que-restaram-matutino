@@ -1,4 +1,3 @@
-# As Memórias que Restaram
 
 <div align="center">
   <img src="assets/banner.png" width="100%" alt="As Memórias que Restaram">
