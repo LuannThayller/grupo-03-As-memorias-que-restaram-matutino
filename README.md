@@ -138,6 +138,18 @@ As prioridades iniciais são:
 As mecânicas e funcionalidades poderão ser ajustadas conforme os testes e a evolução do projeto.
 
 ---
+<h2 id="equipe">Equipe</h2>
+
+A equipe responsável pelo desenvolvimento é composta por:
+
+| Nome | Matrícula | Função |
+|---|---|---|
+| Luann Thayller | 0023194 | Programador e Sound Deisgner |
+| Gabriel Nonato | 0020241 | Programador e Pixel Artista |
+| Weney Anjos da Silva | 0023218 | Programador e Pixel Artista e Game Designer |
+| Luísa Damaceno | 0016112 |  QA (Quality Assurance) |
+| Gabryel Henrique | 0022470 |  QA (Quality Assurance) |
+| Érica Beatriz de A. | 0022515 |  QA (Quality Assurance) e Pixel Artista |
 
 <p align="center">
   Desenvolvido com dedicação pela equipe de <strong>As Memórias que Restaram</strong>.
