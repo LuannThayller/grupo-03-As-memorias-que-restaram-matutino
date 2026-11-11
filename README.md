@@ -112,14 +112,22 @@ O jogador poderá encontrar inimigos, resolver enigmas e explorar áreas secreta
 
 ## Controles
 
+Teclado/Mouse:
 | Ação | Tecla |
 |---|---|
 | Movimentar | A / D |
 | Pular | Espaço |
-| Atacar | Mouse / J |
-| Esquivar | Shift |
+| Atacar | RB Mouse |
 | Interagir | E |
-| Pausar | Esc |
+
+Controle:
+| Ação | Tecla |
+|---|---|
+| Movimentar | Analog. Esq |
+| Pular | Botão Sul |
+| Atacar | Botão Leste |
+| Interagir | Botão Norte |
+| Mirar | Analog. Dir |
 
 *Os controles poderão sofrer alterações durante o desenvolvimento.*
 
