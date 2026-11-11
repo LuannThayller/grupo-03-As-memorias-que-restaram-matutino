@@ -1,2 +1,5 @@
-# template-canvas-game
-template padrão para todos os repositorios
+<div align="center">
+  <img src="assets/banner.png" width="100%" alt="As Memórias que Restaram">
+
+  <p><em>Um mundo inteiro esqueceu que ela existiu. Menos você.</em></p>
+</div>
