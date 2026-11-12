@@ -1,6 +1,6 @@
 
 <div align="center">
-  ![Banner](docs/banner.png)
+  <img src="./docs/banner.png" alt="Banner" />
 
   *Um mundo inteiro esqueceu que ela existiu. Menos você.*
 </div>
