@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: a0a35d3ccd4007f4484074b5ac68005c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4453599975792617211
+    second: Sprite de Pistola Pixel Art em 4 Quadros_0
+  - first:
+      213: -3126832827256574016
+    second: Sprite de Pistola Pixel Art em 4 Quadros_1
+  - first:
+      213: -6771128605754382569
+    second: Sprite de Pistola Pixel Art em 4 Quadros_2
+  - first:
+      213: 6698268121394676102
+    second: Sprite de Pistola Pixel Art em 4 Quadros_3
+  - first:
+      213: -5437042177118908200
+    second: Sprite de Pistola Pixel Art em 4 Quadros_4
+  - first:
+      213: -1870641043765188326
+    second: Sprite de Pistola Pixel Art em 4 Quadros_5
+  - first:
+      213: -2614251079599787733
+    second: Sprite de Pistola Pixel Art em 4 Quadros_6
+  - first:
+      213: 6809089495369518961
+    second: Sprite de Pistola Pixel Art em 4 Quadros_7
+  - first:
+      213: -5240195515131166870
+    second: Sprite de Pistola Pixel Art em 4 Quadros_8
+  - first:
+      213: 3665196315877904469
+    second: Sprite de Pistola Pixel Art em 4 Quadros_9
+  - first:
+      213: -7440657845223202964
+    second: Sprite de Pistola Pixel Art em 4 Quadros_10
+  - first:
+      213: 909495261381080227
+    second: Sprite de Pistola Pixel Art em 4 Quadros_11
+  - first:
+      213: 8383318155184311024
+    second: Sprite de Pistola Pixel Art em 4 Quadros_12
+  - first:
+      213: 4533924962158617149
+    second: Sprite de Pistola Pixel Art em 4 Quadros_13
+  - first:
+      213: 3161830072478473590
+    second: Sprite de Pistola Pixel Art em 4 Quadros_14
+  - first:
+      213: -1750855566062476840
+    second: Sprite de Pistola Pixel Art em 4 Quadros_15
+  - first:
+      213: 7748485877031912921
+    second: Sprite de Pistola Pixel Art em 4 Quadros_16
+  - first:
+      213: -1936910378058760293
+    second: Sprite de Pistola Pixel Art em 4 Quadros_17
+  - first:
+      213: 1248433492897443878
+    second: Sprite de Pistola Pixel Art em 4 Quadros_18
+  - first:
+      213: 8694210813364592705
+    second: Sprite de Pistola Pixel Art em 4 Quadros_19
+  - first:
+      213: -4659999077724139168
+    second: Sprite de Pistola Pixel Art em 4 Quadros_20
+  - first:
+      213: 3413124416607595574
+    second: Sprite de Pistola Pixel Art em 4 Quadros_21
+  - first:
+      213: 3399364334137503503
+    second: Sprite de Pistola Pixel Art em 4 Quadros_22
+  - first:
+      213: -4165106857927684018
+    second: Sprite de Pistola Pixel Art em 4 Quadros_23
+  - first:
+      213: -5649468998097811572
+    second: Sprite de Pistola Pixel Art em 4 Quadros_24
+  - first:
+      213: -8686143973000395560
+    second: Sprite de Pistola Pixel Art em 4 Quadros_25
+  - first:
+      213: -2147926786784819909
+    second: Sprite de Pistola Pixel Art em 4 Quadros_26
+  - first:
+      213: 1466940511666067906
+    second: Sprite de Pistola Pixel Art em 4 Quadros_27
+  - first:
+      213: -87006589289313079
+    second: Sprite de Pistola Pixel Art em 4 Quadros_28
+  - first:
+      213: -5360471709596275370
+    second: Sprite de Pistola Pixel Art em 4 Quadros_29
+  - first:
+      213: -3824908557871562541
+    second: Sprite de Pistola Pixel Art em 4 Quadros_30
+  - first:
+      213: 4324240321597685427
+    second: Sprite de Pistola Pixel Art em 4 Quadros_31
+  - first:
+      213: -2736363954172854688
+    second: Sprite de Pistola Pixel Art em 4 Quadros_32
+  - first:
+      213: 7633307167769223063
+    second: Sprite de Pistola Pixel Art em 4 Quadros_33
+  - first:
+      213: -2101834650086762517
+    second: Sprite de Pistola Pixel Art em 4 Quadros_34
+  - first:
+      213: -5225158454506403452
+    second: Sprite de Pistola Pixel Art em 4 Quadros_35
+  - first:
+      213: 6087348436863986890
+    second: Sprite de Pistola Pixel Art em 4 Quadros_36
+  - first:
+      213: 4576818982290606121
+    second: Sprite de Pistola Pixel Art em 4 Quadros_37
+  - first:
+      213: 754598254283361230
+    second: Sprite de Pistola Pixel Art em 4 Quadros_38
+  - first:
+      213: 8029743174253046820
+    second: Sprite de Pistola Pixel Art em 4 Quadros_39
+  - first:
+      213: 6554815395429759855
+    second: Sprite de Pistola Pixel Art em 4 Quadros_40
+  - first:
+      213: 3947430794711238262
+    second: Sprite de Pistola Pixel Art em 4 Quadros_41
+  - first:
+      213: -8523817701496261956
+    second: Sprite de Pistola Pixel Art em 4 Quadros_42
+  - first:
+      213: -5926287859036026836
+    second: Sprite de Pistola Pixel Art em 4 Quadros_43
+  - first:
+      213: -7601846909767631424
+    second: Sprite de Pistola Pixel Art em 4 Quadros_44
+  - first:
+      213: -5881003759330582883
+    second: Sprite de Pistola Pixel Art em 4 Quadros_45
+  - first:
+      213: 4195812675036254920
+    second: Sprite de Pistola Pixel Art em 4 Quadros_46
+  - first:
+      213: -4145038092481404390
+    second: Sprite de Pistola Pixel Art em 4 Quadros_47
+  - first:
+      213: 3755886443322294369
+    second: Sprite de Pistola Pixel Art em 4 Quadros_48
+  - first:
+      213: 9012030522136567760
+    second: Sprite de Pistola Pixel Art em 4 Quadros_49
+  - first:
+      213: -4982767584891630245
+    second: Sprite de Pistola Pixel Art em 4 Quadros_50
+  - first:
+      213: 2504247101052615857
+    second: Sprite de Pistola Pixel Art em 4 Quadros_51
+  - first:
+      213: -4003207314279489550
+    second: Sprite de Pistola Pixel Art em 4 Quadros_52
+  - first:
+      213: -8697645990545583200
+    second: Sprite de Pistola Pixel Art em 4 Quadros_53
+  - first:
+      213: 4703068795809543743
+    second: Sprite de Pistola Pixel Art em 4 Quadros_54
+  - first:
+      213: 6730894121741053865
+    second: Sprite de Pistola Pixel Art em 4 Quadros_55
+  - first:
+      213: -6568095195449373855
+    second: Sprite de Pistola Pixel Art em 4 Quadros_56
+  - first:
+      213: 9074322475824379490
+    second: Sprite de Pistola Pixel Art em 4 Quadros_57
+  - first:
+      213: 4645576851222616167
+    second: Sprite de Pistola Pixel Art em 4 Quadros_58
+  - first:
+      213: -8233692522104610271
+    second: Sprite de Pistola Pixel Art em 4 Quadros_59
+  - first:
+      213: 3334171131493967969
+    second: Sprite de Pistola Pixel Art em 4 Quadros_60
+  - first:
+      213: -4759145178472878961
+    second: Sprite de Pistola Pixel Art em 4 Quadros_61
+  - first:
+      213: 2071848140398468445
+    second: Sprite de Pistola Pixel Art em 4 Quadros_62
+  - first:
+      213: 1985296889339321004
+    second: Sprite de Pistola Pixel Art em 4 Quadros_63
+  - first:
+      213: -6891431462746196961
+    second: Sprite de Pistola Pixel Art em 4 Quadros_64
+  - first:
+      213: 1888558706188086687
+    second: Sprite de Pistola Pixel Art em 4 Quadros_65
+  - first:
+      213: -6844153229408920994
+    second: Sprite de Pistola Pixel Art em 4 Quadros_66
+  - first:
+      213: -4641334669283616161
+    second: Sprite de Pistola Pixel Art em 4 Quadros_67
+  - first:
+      213: 356068219136018869
+    second: Sprite de Pistola Pixel Art em 4 Quadros_68
+  - first:
+      213: -2719278971871451505
+    second: Sprite de Pistola Pixel Art em 4 Quadros_69
+  - first:
+      213: 2750569308766110225
+    second: Sprite de Pistola Pixel Art em 4 Quadros_70
+  - first:
+      213: 6229708470808679534
+    second: Sprite de Pistola Pixel Art em 4 Quadros_71
+  - first:
+      213: 8870209004839055846
+    second: Sprite de Pistola Pixel Art em 4 Quadros_72
+  - first:
+      213: 433598026531979834
+    second: Sprite de Pistola Pixel Art em 4 Quadros_73
+  - first:
+      213: -2469450288031185321
+    second: Sprite de Pistola Pixel Art em 4 Quadros_74
+  - first:
+      213: -4486184799414289763
+    second: Sprite de Pistola Pixel Art em 4 Quadros_75
+  - first:
+      213: -200600083902645070
+    second: Sprite de Pistola Pixel Art em 4 Quadros_76
+  - first:
+      213: -4873355014392104357
+    second: Sprite de Pistola Pixel Art em 4 Quadros_77
+  - first:
+      213: 3033618152219928092
+    second: Sprite de Pistola Pixel Art em 4 Quadros_78
+  - first:
+      213: -5117561508949111821
+    second: Sprite de Pistola Pixel Art em 4 Quadros_79
+  - first:
+      213: -3129029483394517809
+    second: Sprite de Pistola Pixel Art em 4 Quadros_80
+  - first:
+      213: 3384390966653588750
+    second: Sprite de Pistola Pixel Art em 4 Quadros_81
+  - first:
+      213: -6241056971521003160
+    second: Sprite de Pistola Pixel Art em 4 Quadros_82
+  - first:
+      213: -366123341190993717
+    second: Sprite de Pistola Pixel Art em 4 Quadros_83
+  - first:
+      213: 1202833596201753437
+    second: Sprite de Pistola Pixel Art em 4 Quadros_84
+  - first:
+      213: 671021341070573482
+    second: Sprite de Pistola Pixel Art em 4 Quadros_85
+  - first:
+      213: 3516853815548958487
+    second: Sprite de Pistola Pixel Art em 4 Quadros_86
+  - first:
+      213: -4215398965487578391
+    second: Sprite de Pistola Pixel Art em 4 Quadros_87
+  - first:
+      213: -7377084699158298824
+    second: Sprite de Pistola Pixel Art em 4 Quadros_88
+  - first:
+      213: 7417274923524170511
+    second: Sprite de Pistola Pixel Art em 4 Quadros_89
+  - first:
+      213: 8181336148804124226
+    second: Sprite de Pistola Pixel Art em 4 Quadros_90
+  - first:
+      213: 4263733747416653589
+    second: Sprite de Pistola Pixel Art em 4 Quadros_91
+  - first:
+      213: -973105562147505294
+    second: Sprite de Pistola Pixel Art em 4 Quadros_92
+  - first:
+      213: 1818464950485086550
+    second: Sprite de Pistola Pixel Art em 4 Quadros_93
+  - first:
+      213: -1455475521981187378
+    second: Sprite de Pistola Pixel Art em 4 Quadros_94
+  - first:
+      213: -7284003002974776123
+    second: Sprite de Pistola Pixel Art em 4 Quadros_95
+  - first:
+      213: -1841056574804515993
+    second: Sprite de Pistola Pixel Art em 4 Quadros_96
+  - first:
+      213: 6080170597801426911
+    second: Sprite de Pistola Pixel Art em 4 Quadros_97
+  - first:
+      213: 6547308286795326789
+    second: Sprite de Pistola Pixel Art em 4 Quadros_98
+  - first:
+      213: -1112508023245388981
+    second: Sprite de Pistola Pixel Art em 4 Quadros_99
+  - first:
+      213: 6092168297434876998
+    second: Sprite de Pistola Pixel Art em 4 Quadros_100
+  - first:
+      213: 5502599173061211867
+    second: Sprite de Pistola Pixel Art em 4 Quadros_101
+  - first:
+      213: -3717166291648752659
+    second: Sprite de Pistola Pixel Art em 4 Quadros_102
+  - first:
+      213: 1755781034647885603
+    second: Sprite de Pistola Pixel Art em 4 Quadros_103
+  - first:
+      213: -3749287092319474232
+    second: Sprite de Pistola Pixel Art em 4 Quadros_104
+  - first:
+      213: -567425356622663126
+    second: Sprite de Pistola Pixel Art em 4 Quadros_105
+  - first:
+      213: 2495110549285821718
+    second: Sprite de Pistola Pixel Art em 4 Quadros_106
+  - first:
+      213: 1920166447840810478
+    second: Sprite de Pistola Pixel Art em 4 Quadros_107
+  - first:
+      213: -1381394341180549449
+    second: Sprite de Pistola Pixel Art em 4 Quadros_108
+  - first:
+      213: 3433080919798697147
+    second: Sprite de Pistola Pixel Art em 4 Quadros_109
+  - first:
+      213: -727434400007219054
+    second: Sprite de Pistola Pixel Art em 4 Quadros_110
+  - first:
+      213: -7642331028484726287
+    second: Sprite de Pistola Pixel Art em 4 Quadros_111
+  - first:
+      213: 6729654675765069796
+    second: Sprite de Pistola Pixel Art em 4 Quadros_112
+  - first:
+      213: 7776812922655053598
+    second: Sprite de Pistola Pixel Art em 4 Quadros_113
+  - first:
+      213: 4790966204249877879
+    second: Sprite de Pistola Pixel Art em 4 Quadros_114
+  - first:
+      213: -1077787047526635362
+    second: Sprite de Pistola Pixel Art em 4 Quadros_115
+  - first:
+      213: -494212801330351276
+    second: Sprite de Pistola Pixel Art em 4 Quadros_116
+  - first:
+      213: -5368798888321266099
+    second: Sprite de Pistola Pixel Art em 4 Quadros_117
+  - first:
+      213: 1963504082526594013
+    second: Sprite de Pistola Pixel Art em 4 Quadros_118
+  - first:
+      213: 313429248176847750
+    second: Sprite de Pistola Pixel Art em 4 Quadros_119
+  - first:
+      213: 70628394651228294
+    second: Sprite de Pistola Pixel Art em 4 Quadros_120
+  - first:
+      213: -8593268577632636992
+    second: Sprite de Pistola Pixel Art em 4 Quadros_121
+  - first:
+      213: 8659814090136293464
+    second: Sprite de Pistola Pixel Art em 4 Quadros_122
+  - first:
+      213: -2711784049086324575
+    second: Sprite de Pistola Pixel Art em 4 Quadros_123
+  - first:
+      213: -1415146113817598088
+    second: Sprite de Pistola Pixel Art em 4 Quadros_124
+  - first:
+      213: -7922678690776429021
+    second: Sprite de Pistola Pixel Art em 4 Quadros_125
+  - first:
+      213: -3360402270206729768
+    second: Sprite de Pistola Pixel Art em 4 Quadros_126
+  - first:
+      213: 549803685459105960
+    second: Sprite de Pistola Pixel Art em 4 Quadros_127
+  - first:
+      213: -8418909154483944749
+    second: Sprite de Pistola Pixel Art em 4 Quadros_128
+  - first:
+      213: 5778428680493920071
+    second: Sprite de Pistola Pixel Art em 4 Quadros_129
+  - first:
+      213: -8884260645422225765
+    second: Sprite de Pistola Pixel Art em 4 Quadros_130
+  - first:
+      213: 5964060871301475361
+    second: Sprite de Pistola Pixel Art em 4 Quadros_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite de Pistola Pixel Art em 4 Quadros_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 554
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509513f0b62a132c0800000000000000
+      internalID: -4453599975792617211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de Pistola Pixel Art em 4 Quadros_1
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 554
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf675b3c124b94d0800000000000000
+      internalID: -3126832827256574016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de Pistola Pixel Art em 4 Quadros_2
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 0
+        width: 554
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7172685786e1802a0800000000000000
+      internalID: -6771128605754382569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 20dd3f6a517c4bc4297d535874d94c38
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":554.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sprite de Pistola Pixel Art em 4 Quadros_0: -4453599975792617211
+      Sprite de Pistola Pixel Art em 4 Quadros_1: -3126832827256574016
+      Sprite de Pistola Pixel Art em 4 Quadros_2: -6771128605754382569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

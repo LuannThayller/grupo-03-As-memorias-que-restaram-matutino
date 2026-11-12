@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 2a8bbd2641578ea4f81dbc1628276600
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2243436337288516639
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -4454671891029975013
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 2069974352597773819
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -5883968332231716762
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -3137135840090155953
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 4941385754572543062
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 4430498662062025509
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 6764342954886079084
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 2431537335415986615
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -6103832923289907571
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -1618426752271527295
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -2934606482823478585
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 911193867688271117
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: -595246297887804984
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: 3149858762482944032
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -2860202880761395262
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: -6210944919353849002
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -8526561825314914659
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: -2819700604030051819
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -4554273611199373228
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -6336736559439652425
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -8815283778715216676
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 4949389351857307940
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -2253880948153650300
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 7658931893170588399
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: -1913144735993427354
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 606075445197561733
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 9073550672932552350
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: -2050835197213536100
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 2027576106739851344
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: 2721559766781024424
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 2900788218663835277
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: -2294146179882054827
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: 8347704141239099004
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: 3807198253654464556
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: -2170774645349242472
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: -8039392961238371281
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: 1214416736389028595
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: 1538239221446667494
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: 8643061148641120322
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: 7836056818416046984
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: 1697042877110873903
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: 2634175967714925140
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: -5354914768219683948
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: -5569670840750020846
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: -6931752370863361724
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: -3904817756356005783
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: 8386129609271349869
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: 3479811155805531737
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: 605458545685613998
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_49
+  - first:
+      213: -1210404802430327815
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_50
+  - first:
+      213: 4560492230123698493
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_51
+  - first:
+      213: 2815646351198612272
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_52
+  - first:
+      213: 6617164637213452465
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_53
+  - first:
+      213: 3226072864982138476
+    second: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebe6b79986bdd0e0800000000000000
+      internalID: -2243436337288516639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10ad385483dd22c0800000000000000
+      internalID: -4454671891029975013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd62ccd4b60abc10800000000000000
+      internalID: 2069974352597773819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6605ea7f9f1f75ea0800000000000000
+      internalID: -5883968332231716762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44974f1397a674d0800000000000000
+      internalID: -3137135840090155953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654d877c924539440800000000000000
+      internalID: 4941385754572543062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bec023f0b4c7d30800000000000000
+      internalID: 4430498662062025509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62a6e41416cfdd50800000000000000
+      internalID: 6764342954886079084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9d19fd25e8eb120800000000000000
+      internalID: 2431537335415986615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e88f6bb44da4ba0800000000000000
+      internalID: -6103832923289907571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182dddf81713a89e0800000000000000
+      internalID: -1618426752271527295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 0
+        width: 362
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c28fbbb3fe2647d0800000000000000
+      internalID: -2934606482823478585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 19c08309d6977544ca6944a1c919e465
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":362.0,"y":362.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_0: -2243436337288516639
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_1: -4454671891029975013
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_10: -1618426752271527295
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_11: -2934606482823478585
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_2: 2069974352597773819
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_3: -5883968332231716762
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_4: -3137135840090155953
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_5: 4941385754572543062
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_6: 4430498662062025509
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_7: 6764342954886079084
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_8: 2431537335415986615
+      MonstrodeOlhosFlutuanteAnimado-ezgif.com-gif-to-sprite-converter_9: -6103832923289907571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

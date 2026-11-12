@@ -1,0 +1,901 @@
+fileFormatVersion: 2
+guid: 9a5dcff4753b93e40983cbf6c6bd3fe5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2038812007232280592
+    second: personagem principal projeto-Sheet_0
+  - first:
+      213: -6840566493562699936
+    second: personagem principal projeto-Sheet_1
+  - first:
+      213: 153937464070660728
+    second: personagem principal projeto-Sheet_2
+  - first:
+      213: -4674544445568247027
+    second: personagem principal projeto-Sheet_3
+  - first:
+      213: 2620703698464303122
+    second: personagem principal projeto-Sheet_4
+  - first:
+      213: -2492935097091178666
+    second: personagem principal projeto-Sheet_5
+  - first:
+      213: -635444237432330571
+    second: personagem principal projeto-Sheet_6
+  - first:
+      213: 4473139703800119210
+    second: personagem principal projeto-Sheet_7
+  - first:
+      213: 3786679096067661435
+    second: personagem principal projeto-Sheet_8
+  - first:
+      213: -7835797168151618711
+    second: personagem principal projeto-Sheet_9
+  - first:
+      213: 5333315341459552283
+    second: personagem principal projeto-Sheet_10
+  - first:
+      213: 5108648556107853733
+    second: personagem principal projeto-Sheet_11
+  - first:
+      213: 3571397720854819324
+    second: personagem principal projeto-Sheet_12
+  - first:
+      213: 4523176050817293299
+    second: personagem principal projeto-Sheet_13
+  - first:
+      213: -7229608062393606293
+    second: personagem principal projeto-Sheet_14
+  - first:
+      213: -1437224309823356222
+    second: personagem principal projeto-Sheet_15
+  - first:
+      213: 4390850349826729836
+    second: personagem principal projeto-Sheet_16
+  - first:
+      213: -2525891080038635001
+    second: personagem principal projeto-Sheet_17
+  - first:
+      213: -1035536469096810162
+    second: personagem principal projeto-Sheet_18
+  - first:
+      213: 1647147970402055376
+    second: personagem principal projeto-Sheet_19
+  - first:
+      213: 5305373020204197567
+    second: personagem principal projeto-Sheet_20
+  - first:
+      213: 4833131226520920180
+    second: personagem principal projeto-Sheet_21
+  - first:
+      213: -1370286547736960680
+    second: personagem principal projeto-Sheet_22
+  - first:
+      213: 3761075367023967134
+    second: personagem principal projeto-Sheet_23
+  - first:
+      213: 6082136029473251475
+    second: personagem principal projeto-Sheet_24
+  - first:
+      213: 2482901619298223826
+    second: personagem principal projeto-Sheet_25
+  - first:
+      213: -2719602875410850988
+    second: personagem principal projeto-Sheet_26
+  - first:
+      213: 6466406153078918990
+    second: personagem principal projeto-Sheet_27
+  - first:
+      213: -7817066202110584544
+    second: personagem principal projeto-Sheet_28
+  - first:
+      213: -441609238733057664
+    second: personagem principal projeto-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01891eee7b05b4c10800000000000000
+      internalID: 2038812007232280592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f71c8540d6111a0800000000000000
+      internalID: -6840566493562699936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8726e87de45e22200800000000000000
+      internalID: 153937464070660728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b1123f79ea02fb0800000000000000
+      internalID: -4674544445568247027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2186480f02c9e5420800000000000000
+      internalID: 2620703698464303122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fb6c1ccb0576dd0800000000000000
+      internalID: -2492935097091178666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6e64135d27e27f0800000000000000
+      internalID: -635444237432330571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb3b36cd8c31e30800000000000000
+      internalID: 4473139703800119210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e928f339cfc8430800000000000000
+      internalID: 3786679096067661435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b9f4ccdf7a14390800000000000000
+      internalID: -7835797168151618711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 5
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1876d2cb0eb30a40800000000000000
+      internalID: 5333315341459552283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afee158bc095e640800000000000000
+      internalID: 5108648556107853733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1f0371e47209130800000000000000
+      internalID: 3571397720854819324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbd48547ac85ce30800000000000000
+      internalID: 4523176050817293299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f9ab775c54bab90800000000000000
+      internalID: -7229608062393606293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c24c6eda14fd0ce0800000000000000
+      internalID: -1437224309823356222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c676253212f6fec30800000000000000
+      internalID: 4390850349826729836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 5
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a28f8027b32fcd0800000000000000
+      internalID: -2525891080038635001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 5
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49b58f511901a1f0800000000000000
+      internalID: -1035536469096810162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4f1542a58dbd610800000000000000
+      internalID: 1647147970402055376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6663e17a870a940800000000000000
+      internalID: 5305373020204197567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470a0a55e3bb21340800000000000000
+      internalID: 4833131226520920180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85164a915a3cbfce0800000000000000
+      internalID: -1370286547736960680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b7fe88e16023430800000000000000
+      internalID: 3761075367023967134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390ab588e76186450800000000000000
+      internalID: 6082136029473251475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 5
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d643862ed9057220800000000000000
+      internalID: 2482901619298223826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 5
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b51090897024ad0800000000000000
+      internalID: -2719602875410850988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 5
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f4bafb22a4db950800000000000000
+      internalID: 6466406153078918990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 5
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0299c7da4b3348390800000000000000
+      internalID: -7817066202110584544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem principal projeto-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 5
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08119c3bcb61fd9f0800000000000000
+      internalID: -441609238733057664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1f8c108e13fd5d14795075f5c75f031b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":17.0},"gridSpriteOffset":{"x":8.0,"y":10.0},"gridSpritePadding":{"x":16.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      personagem principal projeto-Sheet_0: 2038812007232280592
+      personagem principal projeto-Sheet_1: -6840566493562699936
+      personagem principal projeto-Sheet_10: 5333315341459552283
+      personagem principal projeto-Sheet_11: 5108648556107853733
+      personagem principal projeto-Sheet_12: 3571397720854819324
+      personagem principal projeto-Sheet_13: 4523176050817293299
+      personagem principal projeto-Sheet_14: -7229608062393606293
+      personagem principal projeto-Sheet_15: -1437224309823356222
+      personagem principal projeto-Sheet_16: 4390850349826729836
+      personagem principal projeto-Sheet_17: -2525891080038635001
+      personagem principal projeto-Sheet_18: -1035536469096810162
+      personagem principal projeto-Sheet_19: 1647147970402055376
+      personagem principal projeto-Sheet_2: 153937464070660728
+      personagem principal projeto-Sheet_20: 5305373020204197567
+      personagem principal projeto-Sheet_21: 4833131226520920180
+      personagem principal projeto-Sheet_22: -1370286547736960680
+      personagem principal projeto-Sheet_23: 3761075367023967134
+      personagem principal projeto-Sheet_24: 6082136029473251475
+      personagem principal projeto-Sheet_25: 2482901619298223826
+      personagem principal projeto-Sheet_26: -2719602875410850988
+      personagem principal projeto-Sheet_27: 6466406153078918990
+      personagem principal projeto-Sheet_28: -7817066202110584544
+      personagem principal projeto-Sheet_29: -441609238733057664
+      personagem principal projeto-Sheet_3: -4674544445568247027
+      personagem principal projeto-Sheet_4: 2620703698464303122
+      personagem principal projeto-Sheet_5: -2492935097091178666
+      personagem principal projeto-Sheet_6: -635444237432330571
+      personagem principal projeto-Sheet_7: 4473139703800119210
+      personagem principal projeto-Sheet_8: 3786679096067661435
+      personagem principal projeto-Sheet_9: -7835797168151618711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

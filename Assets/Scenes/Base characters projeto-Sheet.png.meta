@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 1b102282ba2d42b4f99fb657b682dc89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3004350204825903343
+    second: Base characters projeto-Sheet_0
+  - first:
+      213: -7421867368447894170
+    second: Base characters projeto-Sheet_1
+  - first:
+      213: -1293070694101191648
+    second: Base characters projeto-Sheet_2
+  - first:
+      213: -1903647781269328443
+    second: Base characters projeto-Sheet_3
+  - first:
+      213: 3812611627006700260
+    second: Base characters projeto-Sheet_4
+  - first:
+      213: 8227105163697791365
+    second: Base characters projeto-Sheet_5
+  - first:
+      213: 2120767243537502055
+    second: Base characters projeto-Sheet_6
+  - first:
+      213: -1007153392539976597
+    second: Base characters projeto-Sheet_7
+  - first:
+      213: 5505107827060583590
+    second: Base characters projeto-Sheet_8
+  - first:
+      213: 4193917964574514529
+    second: Base characters projeto-Sheet_9
+  - first:
+      213: -5558559015365157269
+    second: Base characters projeto-Sheet_10
+  - first:
+      213: -5421397233419156701
+    second: Base characters projeto-Sheet_11
+  - first:
+      213: -5852769408538738042
+    second: Base characters projeto-Sheet_12
+  - first:
+      213: -6300205470763989980
+    second: Base characters projeto-Sheet_13
+  - first:
+      213: -2028548559996021765
+    second: Base characters projeto-Sheet_14
+  - first:
+      213: -5850125362846620601
+    second: Base characters projeto-Sheet_15
+  - first:
+      213: 422651852772888292
+    second: Base characters projeto-Sheet_16
+  - first:
+      213: 3544176447705521128
+    second: Base characters projeto-Sheet_17
+  - first:
+      213: -8676408031567557712
+    second: Base characters projeto-Sheet_18
+  - first:
+      213: 6845568763013667650
+    second: Base characters projeto-Sheet_19
+  - first:
+      213: -3907438147748088913
+    second: Base characters projeto-Sheet_20
+  - first:
+      213: 8939197528941302564
+    second: Base characters projeto-Sheet_21
+  - first:
+      213: 5359370642657973443
+    second: Base characters projeto-Sheet_22
+  - first:
+      213: -173017033029598372
+    second: Base characters projeto-Sheet_23
+  - first:
+      213: -3058630773599574564
+    second: Base characters projeto-Sheet_24
+  - first:
+      213: 7347614157565115093
+    second: Base characters projeto-Sheet_25
+  - first:
+      213: 371337645863453538
+    second: Base characters projeto-Sheet_26
+  - first:
+      213: 6040296180767192244
+    second: Base characters projeto-Sheet_27
+  - first:
+      213: -2747848360332162422
+    second: Base characters projeto-Sheet_28
+  - first:
+      213: -6409962969340637713
+    second: Base characters projeto-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe02583f79891b920800000000000000
+      internalID: 3004350204825903343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d999d73fa300990800000000000000
+      internalID: -7421867368447894170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02471a00e071e0ee0800000000000000
+      internalID: -1293070694101191648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd2bfbcd62e495e0800000000000000
+      internalID: -1903647781269328443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea224e131e19e430800000000000000
+      internalID: 3812611627006700260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5812dfbae8c8c2270800000000000000
+      internalID: 8227105163697791365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f465a529a7e6d10800000000000000
+      internalID: 2120767243537502055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c335b535fd502f0800000000000000
+      internalID: -1007153392539976597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac2b22c662166c40800000000000000
+      internalID: 5505107827060583590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dd79f1b2ac33a30800000000000000
+      internalID: 4193917964574514529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 5
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e5d1aa6080cd2b0800000000000000
+      internalID: -5558559015365157269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 6
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32304c3a0f353c4b0800000000000000
+      internalID: -5421397233419156701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68286c37b39c6cea0800000000000000
+      internalID: -5852769408538738042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 5
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424c327118c2198a0800000000000000
+      internalID: -6300205470763989980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 6
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf39ec715d529d3e0800000000000000
+      internalID: -2028548559996021765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74426005afd20dea0800000000000000
+      internalID: -5850125362846620601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee403cee9f8dd500800000000000000
+      internalID: 422651852772888292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 4
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb1bca83b17f2130800000000000000
+      internalID: 3544176447705521128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 4
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbc1186dd4379780800000000000000
+      internalID: -8676408031567557712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 4
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b90f44588500f50800000000000000
+      internalID: 6845568763013667650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa33aa505bdf5c9c0800000000000000
+      internalID: -3907438147748088913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42398996ac86e0c70800000000000000
+      internalID: 8939197528941302564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4194f443f406a40800000000000000
+      internalID: 5359370642657973443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53cd26dce1599df0800000000000000
+      internalID: -173017033029598372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 4
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5e488448f8d85d0800000000000000
+      internalID: -3058630773599574564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 5
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dabc40a528f7f560800000000000000
+      internalID: 7347614157565115093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 6
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263cb691f91472500800000000000000
+      internalID: 371337645863453538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 4
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f6c0af5173d350800000000000000
+      internalID: 6040296180767192244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 5
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a03c9997eadd9d0800000000000000
+      internalID: -2747848360332162422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base characters projeto-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 6
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed0b0d04ac3b07a0800000000000000
+      internalID: -6409962969340637713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Base characters projeto-Sheet_0: 3004350204825903343
+      Base characters projeto-Sheet_1: -7421867368447894170
+      Base characters projeto-Sheet_10: -5558559015365157269
+      Base characters projeto-Sheet_11: -5421397233419156701
+      Base characters projeto-Sheet_12: -5852769408538738042
+      Base characters projeto-Sheet_13: -6300205470763989980
+      Base characters projeto-Sheet_14: -2028548559996021765
+      Base characters projeto-Sheet_15: -5850125362846620601
+      Base characters projeto-Sheet_16: 422651852772888292
+      Base characters projeto-Sheet_17: 3544176447705521128
+      Base characters projeto-Sheet_18: -8676408031567557712
+      Base characters projeto-Sheet_19: 6845568763013667650
+      Base characters projeto-Sheet_2: -1293070694101191648
+      Base characters projeto-Sheet_20: -3907438147748088913
+      Base characters projeto-Sheet_21: 8939197528941302564
+      Base characters projeto-Sheet_22: 5359370642657973443
+      Base characters projeto-Sheet_23: -173017033029598372
+      Base characters projeto-Sheet_24: -3058630773599574564
+      Base characters projeto-Sheet_25: 7347614157565115093
+      Base characters projeto-Sheet_26: 371337645863453538
+      Base characters projeto-Sheet_27: 6040296180767192244
+      Base characters projeto-Sheet_28: -2747848360332162422
+      Base characters projeto-Sheet_29: -6409962969340637713
+      Base characters projeto-Sheet_3: -1903647781269328443
+      Base characters projeto-Sheet_4: 3812611627006700260
+      Base characters projeto-Sheet_5: 8227105163697791365
+      Base characters projeto-Sheet_6: 2120767243537502055
+      Base characters projeto-Sheet_7: -1007153392539976597
+      Base characters projeto-Sheet_8: 5505107827060583590
+      Base characters projeto-Sheet_9: 4193917964574514529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 2737332065ee5324f833aa97b902ce19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7105460696414491237
+    second: npc3  projeto-Sheet_0
+  - first:
+      213: 835096826852282181
+    second: npc3  projeto-Sheet_1
+  - first:
+      213: -2326849077406148120
+    second: npc3  projeto-Sheet_2
+  - first:
+      213: 6810345021557765542
+    second: npc3  projeto-Sheet_3
+  - first:
+      213: -4873956948674447948
+    second: npc3  projeto-Sheet_4
+  - first:
+      213: 5607138485529061077
+    second: npc3  projeto-Sheet_5
+  - first:
+      213: -981051631060190632
+    second: npc3  projeto-Sheet_6
+  - first:
+      213: 3968798353963520426
+    second: npc3  projeto-Sheet_7
+  - first:
+      213: -3726141215941947475
+    second: npc3  projeto-Sheet_8
+  - first:
+      213: -4483398366865894624
+    second: npc3  projeto-Sheet_9
+  - first:
+      213: -3508668523953114114
+    second: npc3  projeto-Sheet_10
+  - first:
+      213: -303958354435918600
+    second: npc3  projeto-Sheet_11
+  - first:
+      213: -4766468858558626974
+    second: npc3  projeto-Sheet_12
+  - first:
+      213: 1717834088391087855
+    second: npc3  projeto-Sheet_13
+  - first:
+      213: 5865381037672006952
+    second: npc3  projeto-Sheet_14
+  - first:
+      213: 1228226736986839888
+    second: npc3  projeto-Sheet_15
+  - first:
+      213: -1524888861231428300
+    second: npc3  projeto-Sheet_16
+  - first:
+      213: 5663593019501101922
+    second: npc3  projeto-Sheet_17
+  - first:
+      213: -7148623835506765847
+    second: npc3  projeto-Sheet_18
+  - first:
+      213: 7891396516091178731
+    second: npc3  projeto-Sheet_19
+  - first:
+      213: 2096127056570246302
+    second: npc3  projeto-Sheet_20
+  - first:
+      213: -153639083052472747
+    second: npc3  projeto-Sheet_21
+  - first:
+      213: -6641605699661680776
+    second: npc3  projeto-Sheet_22
+  - first:
+      213: 908511100961140063
+    second: npc3  projeto-Sheet_23
+  - first:
+      213: 7897244207386325547
+    second: npc3  projeto-Sheet_24
+  - first:
+      213: -6433287605232949677
+    second: npc3  projeto-Sheet_25
+  - first:
+      213: -1757807003577141391
+    second: npc3  projeto-Sheet_26
+  - first:
+      213: -9143483085188607026
+    second: npc3  projeto-Sheet_27
+  - first:
+      213: -7169305047280595347
+    second: npc3  projeto-Sheet_28
+  - first:
+      213: -7514346681423639424
+    second: npc3  projeto-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56219476bdaab9260800000000000000
+      internalID: 7105460696414491237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f0695b32cd69b00800000000000000
+      internalID: 835096826852282181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9d24f971f55bfd0800000000000000
+      internalID: -2326849077406148120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5fccfd6b4338e50800000000000000
+      internalID: 6810345021557765542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b576bf7af93c5cb0800000000000000
+      internalID: -4873956948674447948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6a164aebe80dd40800000000000000
+      internalID: 5607138485529061077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85af6584dba9262f0800000000000000
+      internalID: -981051631060190632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa196294311041730800000000000000
+      internalID: 3968798353963520426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf86d85e461a4cc0800000000000000
+      internalID: -3726141215941947475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023546c70f4c7c1c0800000000000000
+      internalID: -4483398366865894624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 5
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef33e233194be4fc0800000000000000
+      internalID: -3508668523953114114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 6
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4b551bc7f18cbf0800000000000000
+      internalID: -303958354435918600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 4
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263c6a4b3d91addb0800000000000000
+      internalID: -4766468858558626974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 5
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe69b9d7009f6d710800000000000000
+      internalID: 1717834088391087855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 6
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82580c64af4066150800000000000000
+      internalID: 5865381037672006952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bdcb9b5b98b0110800000000000000
+      internalID: 1228226736986839888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dc950f8a186dae0800000000000000
+      internalID: -1524888861231428300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 4
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263cebf18df199e40800000000000000
+      internalID: 5663593019501101922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 4
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef8ab32f7cfacc90800000000000000
+      internalID: -7148623835506765847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 4
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeae5b225fd38d60800000000000000
+      internalID: 7891396516091178731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9464f2c370f61d10800000000000000
+      internalID: 2096127056570246302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5566a07611a2eddf0800000000000000
+      internalID: -153639083052472747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fa47d0ec644d3a0800000000000000
+      internalID: -6641605699661680776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5da947680eab9c00800000000000000
+      internalID: 908511100961140063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 4
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22f5c5e3c5a89d60800000000000000
+      internalID: 7897244207386325547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 5
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356aa20120f58b6a0800000000000000
+      internalID: -6433287605232949677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 6
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1773710f7d30b97e0800000000000000
+      internalID: -1757807003577141391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 4
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec35a890492db1180800000000000000
+      internalID: -9143483085188607026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 5
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ecc6a4b03818c90800000000000000
+      internalID: -7169305047280595347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc3  projeto-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 6
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ccb96818da7b790800000000000000
+      internalID: -7514346681423639424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc3  projeto-Sheet_0: 7105460696414491237
+      npc3  projeto-Sheet_1: 835096826852282181
+      npc3  projeto-Sheet_10: -3508668523953114114
+      npc3  projeto-Sheet_11: -303958354435918600
+      npc3  projeto-Sheet_12: -4766468858558626974
+      npc3  projeto-Sheet_13: 1717834088391087855
+      npc3  projeto-Sheet_14: 5865381037672006952
+      npc3  projeto-Sheet_15: 1228226736986839888
+      npc3  projeto-Sheet_16: -1524888861231428300
+      npc3  projeto-Sheet_17: 5663593019501101922
+      npc3  projeto-Sheet_18: -7148623835506765847
+      npc3  projeto-Sheet_19: 7891396516091178731
+      npc3  projeto-Sheet_2: -2326849077406148120
+      npc3  projeto-Sheet_20: 2096127056570246302
+      npc3  projeto-Sheet_21: -153639083052472747
+      npc3  projeto-Sheet_22: -6641605699661680776
+      npc3  projeto-Sheet_23: 908511100961140063
+      npc3  projeto-Sheet_24: 7897244207386325547
+      npc3  projeto-Sheet_25: -6433287605232949677
+      npc3  projeto-Sheet_26: -1757807003577141391
+      npc3  projeto-Sheet_27: -9143483085188607026
+      npc3  projeto-Sheet_28: -7169305047280595347
+      npc3  projeto-Sheet_29: -7514346681423639424
+      npc3  projeto-Sheet_3: 6810345021557765542
+      npc3  projeto-Sheet_4: -4873956948674447948
+      npc3  projeto-Sheet_5: 5607138485529061077
+      npc3  projeto-Sheet_6: -981051631060190632
+      npc3  projeto-Sheet_7: 3968798353963520426
+      npc3  projeto-Sheet_8: -3726141215941947475
+      npc3  projeto-Sheet_9: -4483398366865894624
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

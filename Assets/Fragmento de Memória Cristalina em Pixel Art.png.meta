@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: e753846c8c7716f4a9776297d5c2333c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5269634898052197802
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_0"
+  - first:
+      213: -4738006052713775045
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_1"
+  - first:
+      213: -2863534222091407754
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_2"
+  - first:
+      213: -2433805565971092153
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_3"
+  - first:
+      213: 7082330649913558465
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_4"
+  - first:
+      213: 4902386386441274729
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_5"
+  - first:
+      213: 1171985970183942261
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_6"
+  - first:
+      213: -9138024260463819694
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_7"
+  - first:
+      213: 5092750405542070465
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_8"
+  - first:
+      213: 7968106157905988414
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_9"
+  - first:
+      213: -2737086220071272406
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_10"
+  - first:
+      213: -5601533291627315286
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_11"
+  - first:
+      213: 9021917622692826602
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_12"
+  - first:
+      213: -1176781086391153878
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_13"
+  - first:
+      213: -6566645517378300887
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_14"
+  - first:
+      213: 8670080701431614983
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_15"
+  - first:
+      213: 3322881427027998678
+    second: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_16"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 153
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652d89ddafe7ed6b0800000000000000
+      internalID: -5269634898052197802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1217
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30485c19983f3eb0800000000000000
+      internalID: -4738006052713775045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_2"
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 967
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e2112fbcea248d0800000000000000
+      internalID: -2863534222091407754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_3"
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 193
+        width: 463
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74daceb8bb2693ed0800000000000000
+      internalID: -2433805565971092153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_4"
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 927
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c585f9c33e794260800000000000000
+      internalID: 7082330649913558465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_5"
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 711
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9650b8bc176c80440800000000000000
+      internalID: 4902386386441274729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_6"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 673
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5703e8ac70bb34010800000000000000
+      internalID: 1171985970183942261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_7"
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 647
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2540726b9573f2180800000000000000
+      internalID: -9138024260463819694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_8"
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 417
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8cf04e2851da640800000000000000
+      internalID: 5092750405542070465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_9"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 429
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bc6927556649e60800000000000000
+      internalID: 7968106157905988414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_10"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 374
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a200905a59ae30ad0800000000000000
+      internalID: -2737086220071272406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_11"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 197
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf7703462b5342b0800000000000000
+      internalID: -5601533291627315286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_12"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 117
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed4175174a443d70800000000000000
+      internalID: 9021917622692826602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_13"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 99
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bc14736db3bafe0800000000000000
+      internalID: -1176781086391153878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_14"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 91
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92451ca81b69ed4a0800000000000000
+      internalID: -6566645517378300887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_15"
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 71
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e0dce3670525870800000000000000
+      internalID: 8670080701431614983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Fragmento de Mem\xF3ria Cristalina em Pixel Art_16"
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 68
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d73fb07d0f3d1e20800000000000000
+      internalID: 3322881427027998678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_0": -5269634898052197802
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_1": -4738006052713775045
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_10": -2737086220071272406
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_11": -5601533291627315286
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_12": 9021917622692826602
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_13": -1176781086391153878
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_14": -6566645517378300887
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_15": 8670080701431614983
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_16": 3322881427027998678
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_2": -2863534222091407754
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_3": -2433805565971092153
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_4": 7082330649913558465
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_5": 4902386386441274729
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_6": 1171985970183942261
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_7": -9138024260463819694
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_8": 5092750405542070465
+      "Fragmento de Mem\xF3ria Cristalina em Pixel Art_9": 7968106157905988414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
